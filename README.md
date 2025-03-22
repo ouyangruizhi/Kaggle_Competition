@@ -1,8 +1,5 @@
 # Binary_Prediction_with_a_Rainfall_Dataset  
 
-Kaggle's Competition: Binary Prediction with a Rainfall Dataset  
-基于贝叶斯优化Voting，Voting集成LightGBM、XGBoost、Random Forest，优化包括基模型参数、软投票权重，实现降雨二分类预测。  
+构造新变量 -> 贝叶斯优化XGBoost -> 交叉验证
 
-**UPDATE 2025.3.16**  
-恍然大悟集成学习的 **集成** ：Score from 0.84124 to **0.95441**
-
+Score：0.83802（Without Ensemble）；Score：0.96245（Ensemble）
