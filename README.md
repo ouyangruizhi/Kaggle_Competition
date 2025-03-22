@@ -3,3 +3,5 @@
 构造新变量 -> 贝叶斯优化XGBoost -> 交叉验证
 
 Score：0.83802（Without Ensemble）；Score：0.96245（Ensemble）
+
+[My work](https://www.kaggle.com/code/ou20040313/bayes-xgboost)
