@@ -7,7 +7,7 @@
 - 交叉验证、过拟合分析
 
 Score[AUC]：0.90037 TOP6%  
-💻[My notebook](https://www.kaggle.com/code/ou20040313/bayes-xgboost)  
+🥈[My notebook](https://www.kaggle.com/code/ou20040313/bayes-xgboost)  
 🎉[Notebook](https://www.kaggle.com/code/kaigaokaigao/fe-cv-0-886-lb-0-864-single-xgboost/notebook) that references and improves my code
 
 ## Predict Podcast Listening Time🎧（2025.4）
@@ -18,5 +18,4 @@ Score[AUC]：0.90037 TOP6%
 - 交叉验证与过拟合分析
 
 Score[RMSE]：12.63624(Not Final)  
-💻[My notebook](https://www.kaggle.com/code/ou20040313/12-636-xgboost-bayes)  
-🎉[Notebook](https://www.kaggle.com/code/vyacheslavbolotin/12-636-xgboost-bayes) that references and improves my code
+🥉[My notebook](https://www.kaggle.com/code/ou20040313/12-636-xgboost-bayes)  
