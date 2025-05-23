@@ -24,5 +24,5 @@ Score[RMSE]：11.67622 TOP4%
 ## Predict Calorie Expenditure🏃（2025.5）
 **任务：回归预测**  
 
-Score[RMSLE]：0.05649(Not Final)
-🥉[My notebook]([https://www.kaggle.com/code/ou20040313/12-636-xgboost-bayes](https://www.kaggle.com/code/ou20040313/calorie-xgboost))  
+Score[RMSLE]：0.05649(Not Final)  
+🥉[My notebook](https://www.kaggle.com/code/ou20040313/calorie-xgboost)  
