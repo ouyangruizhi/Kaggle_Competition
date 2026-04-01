@@ -26,3 +26,6 @@ Score[RMSE]：11.67622 TOP4%
 
 Score[RMSLE]：0.05649(Not Final)  
 🥉[My notebook](https://www.kaggle.com/code/ou20040313/calorie-xgboost)  
+
+## Predicting Irrigation Need🚰（2026.4）
+**任务：多分类预测**  
