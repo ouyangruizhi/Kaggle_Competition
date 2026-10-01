@@ -43,6 +43,6 @@ Score[Balanced Accuracy]：0.96271 TOP58%（Final Private Leaderboard：2475/431
 - 分层交叉验证与OOF AUC评估
 
 Score[AUC]：0.94543 TOP12%（Final Private Leaderboard：406/3575，前11.36%）  
-📓[My notebook](https://www.kaggle.com/code/ou20040313/s6e9-single-model-alternatives)  
+🥉[My notebook](https://www.kaggle.com/code/ou20040313/s6e9-single-model-alternatives)  
 
 > 成绩更新于2026-10-01，均为最终私榜成绩；TOP整数比例向上取整。最终排名来自比赛入榜提交，Notebook展示相关建模过程。  
